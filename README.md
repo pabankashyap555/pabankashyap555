@@ -49,7 +49,7 @@ What I enjoy most is turning raw telemetry — logs, flow records, memory images
 | Qualification | Institution | Year |
 |---|---|---|
 | Master of Cyber Security | RMIT University, Melbourne | 2025 – 2026 |
-| Bachelor of Science (Hons.) | Staffordshire University (APU, Malaysia) | 2019 – 2022 |
+| Bachelor of Science (Hons.) Cyber Security  | Staffordshire University (APU, Malaysia) | 2019 – 2022 |
 
 **Certifications**
 - LogRhythm Security Analyst (LRSA)
