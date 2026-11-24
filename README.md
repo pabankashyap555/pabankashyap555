@@ -14,6 +14,13 @@ I've worked in Security Operations Centres in **Malaysia** and **India**, protec
 
 What I enjoy most is turning raw telemetry — logs, flow records, memory images, packet captures — into a clear answer to the question *"is this malicious, and what do we do next?"*
 
+### 🧪 AiSOC + AI Agent Gateway – Attack Simulation Lab *(In Progress)*
+
+I have been working on a A hands-on lab where I deploy an open-source AI-driven SOC platform  Tuskira's [AI Agent Gateway], a security layer that sits between AI agents and the tools and data they can reach.
+I run simulated attacks against AI agents, such as prompt injection and attempts to misuse tools or pull out sensitive data, and record how the gateway detects, blocks or logs each one.
+The goal is to understand how AI agents get attacked and to practise detection engineering for this new attack surface. 
+
+
 **Open to SOC Analyst / SOC Engineer roles in Australia — full work rights.**
 
 ---
