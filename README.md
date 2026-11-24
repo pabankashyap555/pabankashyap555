@@ -123,7 +123,7 @@ The goal is to understand how AI agents get attacked and to practise detection e
 | Project | Description | Tools |
 |---|---|---|
 | **Intelligent Security Analytics Platform (Capstone)** | Secure hub-and-spoke network across a 6-account AWS Organization with Transit Gateway segmentation mapped to ISM controls. ML anomaly detection on VPC Flow Logs, validated against 14 SOC test cases (lateral movement, exfiltration, recon, after-hours access). I led SOC analytics and validation: false-positive review, alert triage pipeline, and auto-stop of flagged EC2 instances. | AWS VPC, TGW, GuardDuty, Security Hub, CloudTrail, Athena, AWS Config, KMS |
-| **AiSOC + AI Agent Gateway Attack Simulation Lab** | Deployed an open-source AI-driven SOC platform alongside an AI agent gateway, ran attack simulations, and documented detections and response. *(In progress)* | AiSOC, AI Agent Gateway |
+| **AiSOC + AI Agent Gateway Attack Simulation Lab** | Deployed an open-source AI-driven SOC platform alongside an AI agent gateway, I replayed an 8-stage simulated intrusion chain (generated telemetry, not live attacks) and recorded how the platform grouped, triaged and mapped the alerts to MITRE ATT&CK. *(In progress)* | AiSOC, AI Agent Gateway |
 | **AMBED — ML-Based Exfiltration Detection (Research Proposal)** | Research proposal for an adaptive, multi-layer behavioural model to detect data exfiltration and insider threats, grounded in a review of Q1-ranked papers on anomaly-based IDS and federated learning. | LaTeX, Literature Review |
 
 ### 🔍 Digital Forensics
