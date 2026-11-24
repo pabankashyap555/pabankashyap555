@@ -20,7 +20,7 @@ What I enjoy most is turning raw telemetry — logs, flow records, memory images
 
 ## 💼 Experience
 
-**Cyber Threat Analyst L1** — Akati Security, Malaysia
+**Cyber Threat Analyst L1** — Akati Sekurity, Malaysia
 *May 2023 – Feb 2025*
 - Triaged alerts for financial-services clients across **four SIEM platforms** (LogRhythm, Splunk, Stellar Cyber, DNIF), separating real threats from false positives to cut unnecessary escalations
 - Detected and neutralised phishing campaigns using **Microsoft Defender** and the **Azure Security Portal**, reducing the risk of credential compromise
